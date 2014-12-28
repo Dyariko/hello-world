@@ -3,5 +3,5 @@ hello-world
 
 First repository
 
-Hello :)
+Hello again :D
 README edited and already finished
